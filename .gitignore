@@ -1,0 +1,12 @@
+.vscode
+*.log
+*.parm
+*.tlog
+*.tlog.raw
+*.BIN
+__pycache__
+*.DAT
+*.TXT
+*.bin
+*.pyc
+*.ipynb
